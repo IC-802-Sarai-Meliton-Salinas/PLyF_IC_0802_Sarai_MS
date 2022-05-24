@@ -1,7 +1,7 @@
 interfaz  pública PruebaExamen { 
 	public  default  void  Mensaje_Hola (){ 
-		sistema _ fuera _ println ( "Hola mi nombre es: Jaime" ); 
 	}
+	sistema _ fuera _ println ( "Hola mi nombre es: Sarai" ); 
 
 	public  default  void  Mensaje_Hola ( String  cadena ){ 
 		sistema _ fuera _ println ( "La cadena es: " + cadena );
